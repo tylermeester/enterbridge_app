@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+
+# Build output
+**/bin/
+**/obj/
+
+# Local databases
+**/*.db
+**/*.db-shm
+**/*.db-wal
+
+# Logs
+*.log
+
+# Node (root-level safety if any)
+node_modules/
+dist/
