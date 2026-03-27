@@ -1,6 +1,8 @@
 # EnterBridge Procurement App
 
-A lightweight full-stack procurement application that proxies an external pricing API, stores internal orders locally, and provides a clean UI for browsing products and managing orders.
+A lightweight full-stack procurement application that proxies an external pricing API, stores internal orders locally, and provides a clean UI for browsing products and managing orders. 
+
+AI was used in various ways to create this project in a short time frame, including this README :)
 
 ## Tech Stack
 
